@@ -1,0 +1,1 @@
+println new File("wtfpl.txt").text
